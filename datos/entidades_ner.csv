@@ -1,0 +1,577 @@
+idx,medio,etiqueta,entidad,tipo,score
+0,El Comercio,deportes,Barcelona,ORG,0.99216628074646
+0,El Comercio,deportes,Getafe,ORG,0.9996947050094604
+0,El Comercio,deportes,EA Sports,ORG,0.9715625643730164
+1,El Comercio,economia,Wall Street,LOC,0.8724236488342285
+2,El Comercio,deportes,Carlos Gonzales,PER,0.9997551441192627
+2,El Comercio,deportes,Cristal,PER,0.9239859580993652
+2,El Comercio,deportes,Julio César Uribe,PER,0.9995896816253662
+2,El Comercio,deportes,Roberto Mosquera,PER,0.9998279809951782
+3,El Comercio,ciencia_tecnologia,Nobel de Química,PER,0.9501924514770508
+4,El Comercio,deportes,América,ORG,0.9541837573051453
+4,El Comercio,deportes,Medellín,ORG,0.9317447543144226
+5,El Comercio,ciencia_tecnologia,NASA,ORG,0.9997058510780334
+7,El Comercio,ciencia_tecnologia,Latinoamérica,LOC,0.9994338154792786
+8,El Comercio,economia,Minsa,ORG,0.9991322159767151
+9,El Comercio,politica,ONPE,ORG,0.9997740387916565
+9,El Comercio,politica,Lima Metropolitana,LOC,0.9995818138122559
+11,El Comercio,deportes,Alianza Lima,ORG,0.9985969066619873
+11,El Comercio,deportes,Cusco FC,ORG,0.9960870742797852
+12,El Comercio,ciencia_tecnologia,Latinoamérica,LOC,0.999692440032959
+13,El Comercio,deportes,Universitario,ORG,0.9839131236076355
+13,El Comercio,deportes,Melgar,ORG,0.9982556700706482
+14,El Comercio,ciencia_tecnologia,Siberia,LOC,0.9998078942298889
+16,El Comercio,politica,Keiko Fujimori,PER,0.9975395202636719
+18,El Comercio,deportes,Caminos del Inca,ORG,0.9990094304084778
+18,El Comercio,deportes,Fanático,PER,0.9507030248641968
+18,El Comercio,deportes,Raúl Orlandini,PER,0.9998191595077515
+19,El Comercio,deportes,Lionel Messi,PER,0.9996477365493774
+19,El Comercio,deportes,Inter Miami,ORG,0.9994909763336182
+19,El Comercio,deportes,DC United,ORG,0.9986521601676941
+20,El Comercio,politica,Congreso,ORG,0.9996389150619507
+21,El Comercio,politica,Proética,ORG,0.9991527795791626
+21,El Comercio,politica,JNE,ORG,0.9920187592506409
+22,El Comercio,deportes,Barcelona,ORG,0.9984575510025024
+22,El Comercio,deportes,Galatasaray,ORG,0.9992984533309937
+23,El Comercio,ciencia_tecnologia,SpaceX,ORG,0.9465152621269226
+23,El Comercio,ciencia_tecnologia,Elon Musk,PER,0.9990441799163818
+23,El Comercio,ciencia_tecnologia,París,LOC,0.9998121857643127
+23,El Comercio,ciencia_tecnologia,Casa Blanca,ORG,0.9996533393859863
+26,El Comercio,ciencia_tecnologia,Egipto,LOC,0.9958987832069397
+29,El Comercio,ciencia_tecnologia,Edgar,PER,0.9982838034629822
+31,El Comercio,deportes,Alianza Lima,ORG,0.9991779327392578
+31,El Comercio,deportes,Cusco FC,ORG,0.9957886934280396
+33,El Comercio,ciencia_tecnologia,TikTok,ORG,0.9987505674362183
+36,El Comercio,deportes,Maxloren Castro,PER,0.998314619064331
+36,El Comercio,deportes,Sporting Cristal,ORG,0.9996670484542847
+37,El Comercio,politica,Keiko Fujimori,PER,0.9951334595680237
+37,El Comercio,politica,Nayib Bukele,PER,0.9997048377990723
+37,El Comercio,politica,Perú,LOC,0.9995726943016052
+37,El Comercio,politica,El Salvador,LOC,0.9995282888412476
+38,El Comercio,ciencia_tecnologia,Trump,PER,0.9993070363998413
+38,El Comercio,ciencia_tecnologia,IA,ORG,0.9468441009521484
+39,El Comercio,ciencia_tecnologia,Muse,PER,0.9859583973884583
+39,El Comercio,ciencia_tecnologia,IA,ORG,0.9371576905250549
+40,El Comercio,deportes,Alexander Zverev,PER,0.9997376203536987
+40,El Comercio,deportes,Alcaraz,PER,0.980544924736023
+40,El Comercio,deportes,Shangai,LOC,0.9998251795768738
+40,El Comercio,deportes,Sinner,PER,0.9995877146720886
+42,El Comercio,deportes,Vinícius,PER,0.9996864795684814
+42,El Comercio,deportes,Real Madrid,ORG,0.9996200799942017
+42,El Comercio,deportes,Villarreal,ORG,0.9997542500495911
+43,El Comercio,ciencia_tecnologia,NASA,ORG,0.9845958352088928
+44,El Comercio,politica,Alcaldía,ORG,0.7898776531219482
+44,El Comercio,politica,Lima,ORG,0.7419422268867493
+44,El Comercio,politica,Datum,ORG,0.9982779026031494
+45,El Comercio,deportes,Cusco FC,ORG,0.7706469297409058
+45,El Comercio,deportes,Diego Soto,PER,0.9996399879455566
+46,El Comercio,deportes,Perú,ORG,0.8326398134231567
+46,El Comercio,deportes,Argentina,ORG,0.8488524556159973
+47,El Comercio,economia,Promperú,ORG,0.997635006904602
+48,El Comercio,ciencia_tecnologia,Dario Amodei,PER,0.9993396997451782
+52,El Comercio,politica,Senado,ORG,0.9892157316207886
+52,El Comercio,politica,Iber Maraví,PER,0.9997178316116333
+52,El Comercio,politica,Astudillo,PER,0.9994668364524841
+53,El Comercio,ciencia_tecnologia,Europa,ORG,0.6131415367126465
+54,El Comercio,politica,Domingo García Belaunde,PER,0.9994966983795166
+55,El Comercio,deportes,Liverpool,ORG,0.9965715408325195
+55,El Comercio,deportes,City,ORG,0.9966268539428711
+55,El Comercio,deportes,Anfield,LOC,0.9991698265075684
+56,El Comercio,politica,Fernando Vivas,PER,0.9998234510421753
+56,El Comercio,politica,Congreso,ORG,0.9998248219490051
+57,El Comercio,politica,Senado,ORG,0.9920704960823059
+57,El Comercio,politica,Comisión de Constitución,ORG,0.9994044303894043
+58,El Comercio,politica,Keiko Fujimori,PER,0.9973047971725464
+58,El Comercio,politica,papa,PER,0.8001914024353027
+58,El Comercio,politica,León XIV,PER,0.9989265203475952
+59,El Comercio,deportes,ADT,ORG,0.9994547963142395
+59,El Comercio,deportes,FC Cajamarca,ORG,0.9990429282188416
+61,El Comercio,deportes,Mbappé,PER,0.9614683985710144
+62,El Comercio,economia,South Summit Brazil 2027,ORG,0.8276607394218445
+63,El Comercio,deportes,Manchester City,ORG,0.9990966320037842
+63,El Comercio,deportes,Liverpool,ORG,0.9962738752365112
+63,El Comercio,deportes,Anfield,LOC,0.9980692267417908
+64,El Comercio,economia,Gobierno,ORG,0.999677300453186
+67,El Comercio,ciencia_tecnologia,Perú,LOC,0.9981024861335754
+68,El Comercio,ciencia_tecnologia,Muse,PER,0.8569998145103455
+69,El Comercio,politica,Gobierno,ORG,0.9997932314872742
+71,El Comercio,economia,Eduardo Grisolle,PER,0.999822735786438
+72,El Comercio,deportes,Álex Valera,PER,0.9988330602645874
+72,El Comercio,deportes,Universitario,ORG,0.9966865181922913
+72,El Comercio,deportes,Melgar,ORG,0.9987816214561462
+74,El Comercio,deportes,Messi,PER,0.9996273517608643
+74,El Comercio,deportes,Lamine Yamal,PER,0.9997128248214722
+74,El Comercio,deportes,Leo,PER,0.999606192111969
+76,El Comercio,politica,Keiko Fujimori,PER,0.9996911287307739
+78,El Comercio,politica,Keiko Fujimori,PER,0.9986162781715393
+78,El Comercio,politica,Palacio de Gobierno,LOC,0.9971975684165955
+80,El Comercio,politica,Juntos,PER,0.9935163259506226
+80,El Comercio,politica,Perú,ORG,0.7065969109535217
+81,El Comercio,deportes,Leandro Sosa,PER,0.9996311664581299
+81,El Comercio,deportes,Sporting Cristal,ORG,0.9995278716087341
+81,El Comercio,deportes,Alianza Lima,ORG,0.9992959499359131
+82,El Comercio,deportes,Sport Boys,ORG,0.9386239051818848
+82,El Comercio,deportes,Alianza Atlético,ORG,0.999599814414978
+88,El Comercio,politica,Keiko Fujimori,PER,0.9935606122016907
+88,El Comercio,politica,Astudillo,PER,0.9971103072166443
+89,El Comercio,politica,Congreso,ORG,0.967467725276947
+90,El Comercio,deportes,Orejas,PER,0.6803516149520874
+90,El Comercio,deportes,Matías Lazo,PER,0.9997091293334961
+90,El Comercio,deportes,Conar,ORG,0.9914224743843079
+90,El Comercio,deportes,| VIDEO,PER,0.9909578561782837
+91,El Comercio,ciencia_tecnologia,Ben Affleck,PER,0.9995208382606506
+92,El Comercio,economia,Asociación de Consumidores del Gas,ORG,0.9996887445449829
+92,El Comercio,economia,TGP,ORG,0.9998206496238708
+92,El Comercio,economia,Camisea,ORG,0.9935892820358276
+93,El Comercio,economia,BTS,ORG,0.9921523928642273
+93,El Comercio,economia,Lima,LOC,0.9913955330848694
+94,El Comercio,deportes,Alianza Lima,ORG,0.9902359843254089
+94,El Comercio,deportes,Pedro Díaz,PER,0.9997979402542114
+94,El Comercio,deportes,Cusco,LOC,0.996918797492981
+95,El Comercio,ciencia_tecnologia,ChatGPT,ORG,0.9964690208435059
+98,El Comercio,deportes,Huancayo,LOC,0.9988967180252075
+98,El Comercio,deportes,Ayacucho,LOC,0.9994692206382751
+99,El Comercio,economia,Costa Rica,LOC,0.9995371103286743
+99,El Comercio,economia,Perú,LOC,0.9991932511329651
+103,El Comercio,politica,Alcaldía de Lima,ORG,0.9930383563041687
+103,El Comercio,politica,Congreso,ORG,0.9989751577377319
+104,El Comercio,politica,Alfonso López Chau,PER,0.9995148777961731
+104,El Comercio,politica,Senado,ORG,0.9984934329986572
+105,El Comercio,politica,Carlos Mesía,PER,0.9997869729995728
+105,El Comercio,politica,Senado,ORG,0.9989836812019348
+106,El Comercio,economia,Perú,LOC,0.9984765648841858
+107,El Comercio,politica,Francis Allison,PER,0.9996188879013062
+108,El Comercio,economia,IA,ORG,0.6202130317687988
+109,El Comercio,ciencia_tecnologia,David Gross,PER,0.9997520446777344
+109,El Comercio,ciencia_tecnologia,de,PER,0.6307380795478821
+110,El Comercio,economia,Perú,LOC,0.9992062449455261
+111,El Comercio,politica,López Aliaga,PER,0.9996730089187622
+111,El Comercio,politica,Allison,PER,0.9937147498130798
+111,El Comercio,politica,Lima,LOC,0.9995493292808533
+114,El Comercio,ciencia_tecnologia,BTS,ORG,0.9972344040870667
+114,El Comercio,ciencia_tecnologia,Lima,LOC,0.9943248629570007
+115,El Comercio,politica,Héctor Ventura,PER,0.9998099207878113
+115,El Comercio,politica,FF. AA,ORG,0.9965684413909912
+116,El Comercio,politica,Ministro Sheput,PER,0.7994097471237183
+118,El Comercio,deportes,Cristiano Ronaldo,PER,0.9993818998336792
+118,El Comercio,deportes,Atlético Nacional,ORG,0.9997641444206238
+120,El Comercio,ciencia_tecnologia,Atari,ORG,0.9951933026313782
+122,El Comercio,deportes,Universitario,ORG,0.9682288765907288
+122,El Comercio,deportes,Melgar,ORG,0.9975934624671936
+122,El Comercio,deportes,Monumental,LOC,0.9976761937141418
+127,El Comercio,deportes,Lando Norris,PER,0.9995124936103821
+127,El Comercio,deportes,Oscar Piastri,PER,0.9998024702072144
+127,El Comercio,deportes,McLaren,ORG,0.9943879246711731
+128,El Comercio,economia,Perú,LOC,0.998502254486084
+129,El Comercio,economia,Wall Street,LOC,0.9030755162239075
+130,El Comercio,politica,Graciela Chipana,PER,0.9996730089187622
+130,El Comercio,politica,Juntos,ORG,0.9520230293273926
+130,El Comercio,politica,Perú,LOC,0.7035956978797913
+131,El Comercio,ciencia_tecnologia,Venezuela,LOC,0.9998161196708679
+131,El Comercio,ciencia_tecnologia,Colombia,LOC,0.9998262524604797
+131,El Comercio,ciencia_tecnologia,Perú,LOC,0.9997920393943787
+132,El Comercio,deportes,América,ORG,0.9590425491333008
+132,El Comercio,deportes,Monterrey,ORG,0.9972457885742188
+133,El Comercio,economia,Wall Street,ORG,0.7387685775756836
+134,El Comercio,deportes,Cristian Bordacahar,PER,0.9996742010116577
+134,El Comercio,deportes,Melgar,ORG,0.9977992177009583
+134,El Comercio,deportes,Universitario,ORG,0.9952789545059204
+134,El Comercio,deportes,Monumental,LOC,0.9977943897247314
+134,El Comercio,deportes,VIDEO,LOC,0.8948900699615479
+135,El Comercio,deportes,Lionel Messi,PER,0.9997326135635376
+135,El Comercio,deportes,Inter Miami,ORG,0.9996019601821899
+135,El Comercio,deportes,DC United,ORG,0.9995393753051758
+136,El Comercio,politica,Rafael Belaunde,PER,0.9997910857200623
+136,El Comercio,politica,Senado,ORG,0.9997350573539734
+137,El Comercio,economia,BTS,ORG,0.9995450377464294
+137,El Comercio,economia,Lima,LOC,0.9944213032722473
+138,El Comercio,politica,ONPE,ORG,0.9996421337127686
+138,El Comercio,politica,Lima Metropolitana,LOC,0.9993683099746704
+139,El Comercio,deportes,Atlas,ORG,0.9891963005065918
+139,El Comercio,deportes,Chivas,ORG,0.9994476437568665
+141,El Comercio,politica,Carlos Mesía,PER,0.9997894763946533
+143,El Comercio,politica,Fuerza Popular,ORG,0.9997401237487793
+144,El Comercio,deportes,Felipe Chávez,PER,0.9996854066848755
+144,El Comercio,deportes,Magdeburgo,ORG,0.9389173984527588
+144,El Comercio,deportes,Hannover,ORG,0.998612642288208
+145,El Comercio,politica,Francis Allison,PER,0.9986478090286255
+146,El Comercio,deportes,Cusco FC,ORG,0.9967926740646362
+146,El Comercio,deportes,Aldair Fuentes,PER,0.9995706081390381
+146,El Comercio,deportes,Vélez,PER,0.9990488886833191
+147,El Comercio,politica,Congreso,ORG,0.9724636077880859
+147,El Comercio,politica,José Antonio Chang,PER,0.9996294975280762
+148,El Comercio,deportes,Cajamarca,LOC,0.9968388080596924
+148,El Comercio,deportes,Sporting Cristal,ORG,0.9996622800827026
+148,El Comercio,deportes,UTC,ORG,0.9997490048408508
+149,El Comercio,economia,BTS,ORG,0.9673068523406982
+149,El Comercio,economia,Lima,LOC,0.9907593727111816
+150,El Comercio,politica,Cámara de Diputados,ORG,0.9997494220733643
+150,El Comercio,politica,Gobierno,ORG,0.9998718500137329
+151,El Comercio,economia,Perú,LOC,0.9995427131652832
+152,El Comercio,deportes,Monumental,LOC,0.9819440841674805
+152,El Comercio,deportes,Bernardo Cuesta,PER,0.9996505975723267
+152,El Comercio,deportes,Melgar,ORG,0.9870617985725403
+152,El Comercio,deportes,Universitario,ORG,0.9982993006706238
+154,El Comercio,politica,Luis Galarreta,PER,0.9997827410697937
+154,El Comercio,politica,Ejecutivo,ORG,0.9996272325515747
+155,El Comercio,economia,MTC,ORG,0.9997358918190002
+157,El Comercio,economia,FEN,ORG,0.9996907711029053
+157,El Comercio,economia,2027,LOC,0.7693646550178528
+158,El Comercio,economia,Texas,LOC,0.9995664954185486
+158,El Comercio,economia,Ormuz,LOC,0.9977658987045288
+159,El Comercio,economia,Wall Street,LOC,0.9585334062576294
+160,El Comercio,deportes,Mosquera,PER,0.7790370583534241
+161,El Comercio,deportes,Álex Valera,PER,0.9964483976364136
+161,El Comercio,deportes,Melgar,ORG,0.999339759349823
+163,El Comercio,politica,Odebrecht,ORG,0.9614320397377014
+163,El Comercio,politica,Humberto Abanto,PER,0.9997566938400269
+165,El Comercio,politica,JNE,ORG,0.9975726008415222
+166,El Comercio,politica,Ernesto Álvarez,PER,0.9836903810501099
+166,El Comercio,politica,Fuerzas Armadas,ORG,0.9993176460266113
+167,El Comercio,politica,Rafael López Aliaga,PER,0.9996690154075623
+168,El Comercio,politica,Alfonso López Chau,PER,0.9993879199028015
+168,El Comercio,politica,Ahora Nación,ORG,0.9995232224464417
+168,El Comercio,politica,Senado,ORG,0.976646363735199
+168,El Comercio,politica,Cámara de Diputados,ORG,0.9986019730567932
+169,El Comercio,deportes,Vinícius Jr,PER,0.9995015859603882
+169,El Comercio,deportes,Barza,ORG,0.9978440999984741
+170,El Comercio,deportes,Cusco FC,ORG,0.983319878578186
+170,El Comercio,deportes,Álvaro Ampuero,PER,0.9987343549728394
+170,El Comercio,deportes,Alianza Lima,ORG,0.9992926716804504
+171,El Comercio,economia,Wall Street,LOC,0.9707964658737183
+172,El Comercio,economia,Wall,ORG,0.6422322392463684
+172,El Comercio,economia,Street,LOC,0.7944232821464539
+173,El Comercio,politica,Fuerza Popular,ORG,0.9966790080070496
+174,El Comercio,politica,Keiko Fujimori,PER,0.9911302328109741
+174,El Comercio,politica,ERM,ORG,0.9851160645484924
+175,El Comercio,economia,Wall Street,LOC,0.8212307691574097
+176,El Comercio,economia,BTS,ORG,0.9948028326034546
+176,El Comercio,economia,Lima,LOC,0.9959099292755127
+176,El Comercio,economia,San Marcos,LOC,0.9996302127838135
+177,El Comercio,politica,Keiko Fujimori,PER,0.9978542923927307
+177,El Comercio,politica,Cámara de Diputados,ORG,0.99973464012146
+177,El Comercio,politica,Gobierno,ORG,0.9997904896736145
+178,El Comercio,deportes,Liga de Quito,ORG,0.9977390766143799
+178,El Comercio,deportes,Barcelona SC,ORG,0.9994851350784302
+180,El Comercio,politica,Oscar Reto,PER,0.9998221397399902
+180,El Comercio,politica,Senado,ORG,0.999665379524231
+181,El Comercio,economia,Cofide,ORG,0.9997795224189758
+182,El Comercio,politica,ONPE,ORG,0.9998493194580078
+183,El Comercio,politica,Presidente,PER,0.9253410696983337
+183,El Comercio,politica,TC,ORG,0.9947958588600159
+183,El Comercio,politica,Senado,ORG,0.9995704293251038
+183,El Comercio,politica,Diputados,ORG,0.9970382452011108
+184,El Comercio,deportes,Lionel Scaloni,PER,0.9996415376663208
+184,El Comercio,deportes,Buenos Aires,LOC,0.9996203184127808
+185,El Comercio,deportes,Alianza Lima,ORG,0.9994121789932251
+186,El Comercio,deportes,Eduardo Castro,PER,0.9998050928115845
+186,El Comercio,deportes,Piloto,PER,0.9330453872680664
+186,El Comercio,deportes,Lima,LOC,0.9990449547767639
+186,El Comercio,deportes,Huancayo,LOC,0.99919193983078
+187,El Comercio,politica,Cancillería,ORG,0.9989922642707825
+187,El Comercio,politica,José Barba Caballero,PER,0.9995935559272766
+187,El Comercio,politica,Elmer Schialer,PER,0.9997831583023071
+187,El Comercio,politica,Costa Rica,LOC,0.9994770288467407
+187,El Comercio,politica,Canadá,LOC,0.9994598031044006
+188,El Comercio,economia,Nuam,ORG,0.9647186994552612
+188,El Comercio,economia,Vantek,ORG,0.9987738728523254
+188,El Comercio,economia,Perú,LOC,0.9997585415840149
+188,El Comercio,economia,Chile,LOC,0.9997697472572327
+188,El Comercio,economia,Colombia,LOC,0.9997413754463196
+189,El Comercio,economia,Comisión de Dumping de Indecopi,ORG,0.9850778579711914
+190,El Comercio,politica,Miguel Torres,PER,0.9997492432594299
+190,El Comercio,politica,Congreso,ORG,0.9992576241493225
+190,El Comercio,politica,Maraví,PER,0.9965787529945374
+190,El Comercio,politica,ministro Astudillo,PER,0.9959125518798828
+191,El Comercio,economia,Ministro de Energía,PER,0.9858524203300476
+191,El Comercio,economia,Calidda,LOC,0.9864327311515808
+191,El Comercio,economia,Osinergmin,ORG,0.8055083155632019
+192,El Comercio,politica,Comisión de Constitución del Senado,ORG,0.9990494847297668
+192,El Comercio,politica,Iber Maraví,PER,0.9997327327728271
+193,El Comercio,economia,Banco Central de Reserva del Perú,ORG,0.9995737671852112
+194,El Comercio,economia,ProInversión,ORG,0.9976947903633118
+195,El Comercio,economia,Texas,LOC,0.9997145533561707
+196,El Comercio,economia,SNI,ORG,0.999743640422821
+197,El Comercio,economia,IA,ORG,0.6852244734764099
+198,El Comercio,economia,BTS,ORG,0.9409692287445068
+198,El Comercio,economia,Perú,LOC,0.9836573004722595
+198,El Comercio,economia,Promperú,PER,0.9916290044784546
+202,La República,politica,Ruth Luque,PER,0.9993150234222412
+202,La República,politica,Astudillo,PER,0.9994524121284485
+204,La República,politica,Juntos,ORG,0.8894805312156677
+204,La República,politica,Perú,LOC,0.9818415641784668
+205,La República,politica,Comisión de Constitución,ORG,0.986950695514679
+205,La República,politica,Avendaño,PER,0.9982514977455139
+206,La República,politica,Rafael Belaunde,PER,0.9997832775115967
+206,La República,politica,Comisión de Constitución,ORG,0.9994885921478271
+208,La República,deportes,Universitario,ORG,0.9643070101737976
+208,La República,deportes,Gerdau Minas,PER,0.903958797454834
+209,La República,politica,Poder Judicial,ORG,0.9984952211380005
+209,La República,politica,Renzo Reggiardo,PER,0.9997570514678955
+210,La República,ciencia_tecnologia,Antártida,LOC,0.9979883432388306
+211,La República,politica,Congreso,ORG,0.9679436087608337
+212,La República,economia,Perú,LOC,0.996302604675293
+213,La República,deportes,Alianza,ORG,0.998649537563324
+214,La República,ciencia_tecnologia,Joven,PER,0.7386416792869568
+214,La República,ciencia_tecnologia,OpenAI,ORG,0.9918292164802551
+215,La República,economia,Perú,LOC,0.9982074499130249
+215,La República,economia,Áncash,LOC,0.8781910538673401
+216,La República,economia,Sheput,PER,0.9964452385902405
+217,La República,economia,Perú,LOC,0.99543297290802
+218,La República,economia,León XIV,PER,0.9793957471847534
+218,La República,economia,Gobierno,ORG,0.999800980091095
+219,La República,deportes,Carlos Zambrano,PER,0.9997909665107727
+220,La República,politica,Keiko Fujimori,PER,0.9993348121643066
+220,La República,politica,Fuerza Popular,ORG,0.9997308850288391
+221,La República,deportes,Perú,ORG,0.772698163986206
+221,La República,deportes,Uruguay,ORG,0.9970672726631165
+222,La República,ciencia_tecnologia,Perú,LOC,0.9942165613174438
+223,La República,deportes,Franco Velazco,PER,0.9997057318687439
+223,La República,deportes,Rodrigo Ureña,PER,0.9998191595077515
+223,La República,deportes,Universitario,ORG,0.9955246448516846
+224,La República,politica,Víctor Revoredo,PER,0.9993454217910767
+224,La República,politica,Dirincri,ORG,0.999163031578064
+224,La República,politica,China Polo,PER,0.9913804531097412
+225,La República,politica,China Polo,ORG,0.8770297765731812
+226,La República,politica,Juan Sheput,PER,0.9988397359848022
+226,La República,politica,Roberto Sánchez,PER,0.999855637550354
+227,La República,ciencia_tecnologia,Alu,ORG,0.9990003705024719
+229,La República,economia,Perú,LOC,0.9982926249504089
+231,La República,ciencia_tecnologia,Alaska,LOC,0.9995834231376648
+232,La República,politica,Eliane Karp,PER,0.9994866847991943
+232,La República,politica,Keiko Fujimori,PER,0.9996538162231445
+232,La República,politica,Alejandro Toledo,PER,0.9997936487197876
+233,La República,deportes,Perú,ORG,0.8128129243850708
+233,La República,deportes,Argentina,ORG,0.9987205266952515
+234,La República,politica,Luis Galarreta,PER,0.9998131990432739
+234,La República,politica,Keiko Fujimori,PER,0.9997795820236206
+234,La República,politica,Gobierno,ORG,0.9998136162757874
+235,La República,politica,Poder Judicial,ORG,0.9971328973770142
+235,La República,politica,Elizabeth Peralta,PER,0.9997583627700806
+235,La República,politica,Ándres Hurtado,PER,0.9992003440856934
+236,La República,deportes,Perú,ORG,0.9526250958442688
+236,La República,deportes,Venezuela,ORG,0.9920319318771362
+237,La República,politica,Keiko Fujimori,PER,0.9977396726608276
+237,La República,politica,Trujillo,LOC,0.9998444318771362
+238,La República,economia,Perú,LOC,0.9983207583427429
+239,La República,politica,Sheput,PER,0.9968618154525757
+240,La República,deportes,Alianza,ORG,0.9977090358734131
+240,La República,deportes,Daniela Bulaich,PER,0.9992597103118896
+241,La República,economia,Gobierno,ORG,0.9971932768821716
+241,La República,economia,Keiko Fujimori,PER,0.9793936014175415
+242,La República,economia,Perú,LOC,0.9964865446090698
+243,La República,politica,JNJ,ORG,0.9921377301216125
+243,La República,politica,ONPE,ORG,0.9998660087585449
+244,La República,politica,Junta Nacional de Justicia,ORG,0.9996781349182129
+244,La República,politica,Richard Concepción Carhuancho,PER,0.9997878074645996
+245,La República,economia,Trujillo,LOC,0.9995810389518738
+245,La República,economia,Perú,LOC,0.9994164705276489
+246,La República,deportes,Monumental,LOC,0.7992364764213562
+246,La República,deportes,Universitario,ORG,0.9405572414398193
+246,La República,deportes,Melgar,ORG,0.9976304769515991
+247,La República,deportes,Yao Ming,PER,0.9981977939605713
+247,La República,deportes,China,LOC,0.997787594795227
+249,La República,deportes,Emily Zinger,PER,0.9997342824935913
+249,La República,deportes,Alianza,ORG,0.9996438026428223
+249,La República,deportes,San Martín,PER,0.8778808116912842
+250,La República,politica,César Astudillo,PER,0.9996869564056396
+251,La República,politica,Andrés Hurtado,PER,0.9995357990264893
+251,La República,politica,Fiscalía,ORG,0.998823344707489
+251,La República,politica,TV,ORG,0.9551722407341003
+252,La República,economia,Perú,LOC,0.9955735206604004
+253,La República,economia,Perú,LOC,0.9961672425270081
+254,La República,ciencia_tecnologia,Ecuador,LOC,0.9997751116752625
+255,La República,politica,Keiko Fujimori,PER,0.9969559907913208
+255,La República,politica,Senado,ORG,0.9997778534889221
+256,La República,deportes,Franco Velazco,PER,0.999744176864624
+256,La República,deportes,Pablo Guede,PER,0.9997590184211731
+256,La República,deportes,Miguel Rondelli,PER,0.9997527003288269
+256,La República,deportes,Universitario,PER,0.7241554856300354
+257,La República,politica,Gobierno,ORG,0.9996464252471924
+257,La República,politica,Elmer Schialer,PER,0.999767005443573
+257,La República,politica,Canadá,LOC,0.9996448755264282
+257,La República,politica,José Barba Caballero,PER,0.9997550845146179
+257,La República,politica,Costa Rica,LOC,0.9993335008621216
+259,La República,deportes,Perú,ORG,0.847856879234314
+259,La República,deportes,Colombia,ORG,0.964878261089325
+260,La República,ciencia_tecnologia,Samsung,ORG,0.9993919134140015
+261,La República,politica,Andrés Hurtado,PER,0.9997971057891846
+262,La República,politica,Andrés Hurtado,PER,0.9997755885124207
+263,La República,economia,Minem,ORG,0.9976108074188232
+264,La República,deportes,FC Barcelona,ORG,0.9982010126113892
+266,La República,economia,SUNAT,ORG,0.9826343655586243
+267,La República,politica,Jurados Electorales Especiales,ORG,0.9953604340553284
+268,La República,ciencia_tecnologia,Unión Soviética,ORG,0.9992285966873169
+269,La República,politica,Keiko Fujimori,PER,0.9915215969085693
+269,La República,politica,La Libertad,LOC,0.995771586894989
+270,La República,economia,Credicorp Capital,ORG,0.9993564486503601
+270,La República,economia,Perú,LOC,0.9986039996147156
+271,La República,economia,Perú,LOC,0.9993051290512085
+273,La República,economia,Perú,LOC,0.9956691265106201
+275,La República,economia,Perú,LOC,0.9994340538978577
+276,La República,economia,papa,PER,0.8441138863563538
+276,La República,economia,León XIV,PER,0.9500706195831299
+276,La República,economia,Vaticano,ORG,0.7110249996185303
+277,La República,politica,Raúl Tola,PER,0.9998170137405396
+278,La República,economia,AFP,ORG,0.9978152513504028
+278,La República,economia,CCL,ORG,0.9997238516807556
+280,La República,deportes,Atlético de Madrid,ORG,0.9960151314735413
+280,La República,deportes,Manchester United,ORG,0.9988070726394653
+282,La República,politica,Comisión de Constitución del Senado,ORG,0.9987392425537109
+282,La República,politica,Maraví,PER,0.9996026158332825
+283,La República,deportes,Perú,LOC,0.8529590368270874
+284,La República,deportes,City,LOC,0.6831852793693542
+284,La República,deportes,PSG,ORG,0.9992615580558777
+286,La República,deportes,Mano Menezes,PER,0.9996243715286255
+286,La República,deportes,México,ORG,0.7310072183609009
+287,La República,economia,Perú,LOC,0.9956164360046387
+290,La República,economia,Petroperú,ORG,0.8294135332107544
+290,La República,economia,JP,ORG,0.9941960573196411
+291,La República,economia,AFP,ORG,0.9977601766586304
+292,La República,politica,Giannina Avendaño,PER,0.9997595548629761
+293,La República,politica,Colchado,PER,0.9993430972099304
+294,La República,deportes,Cenaida,PER,0.998749852180481
+294,La República,deportes,FPV,ORG,0.9999123811721802
+294,La República,deportes,Alianza,ORG,0.9997081160545349
+295,La República,deportes,Perú,ORG,0.6628442406654358
+295,La República,deportes,Chile,ORG,0.9958078861236572
+296,La República,politica,Giampietri,PER,0.9996836185455322
+296,La República,politica,Maraví,PER,0.9997395873069763
+296,La República,politica,Senado,ORG,0.983748197555542
+297,La República,politica,México,ORG,0.8737782835960388
+297,La República,politica,Lydia Antonio,PER,0.9997249841690063
+297,La República,politica,Perú,LOC,0.9988196492195129
+298,La República,economia,Perú,LOC,0.9958924055099487
+299,La República,deportes,Miguel Ángel Rondelli,PER,0.9993090629577637
+299,La República,deportes,Melgar,ORG,0.9756588935852051
+299,La República,deportes,Universitario,ORG,0.998026430606842
+300,La República,ciencia_tecnologia,Alu,PER,0.9393373131752014
+301,La República,politica,Carlos Loyola,PER,0.9998105764389038
+301,La República,politica,ONPE,ORG,0.9998612403869629
+302,La República,economia,Europa,LOC,0.9996662139892578
+303,La República,deportes,Universitario,ORG,0.9968715310096741
+303,La República,deportes,Pumas,ORG,0.9977287650108337
+304,La República,economia,Perú,LOC,0.9978517293930054
+305,La República,deportes,Alianza,ORG,0.9989810585975647
+305,La República,deportes,Camila Monge,PER,0.9981537461280823
+306,La República,deportes,Guede,PER,0.9583555459976196
+306,La República,deportes,Alejandro Duarte,PER,0.9997780919075012
+306,La República,deportes,Universitario,ORG,0.9991142153739929
+307,La República,economia,Julio Velarde,PER,0.9957706928253174
+308,La República,deportes,Mano Menezes,PER,0.9997354745864868
+308,La República,deportes,Oliver Sonne,PER,0.9998412132263184
+310,La República,politica,Carlos Infante,PER,0.9997459053993225
+310,La República,politica,Uchuraccay,LOC,0.9980629086494446
+312,La República,deportes,Mano Menezes,PER,0.9997360706329346
+313,La República,economia,Brasil,LOC,0.9670690894126892
+314,La República,politica,Senado,ORG,0.9984431862831116
+314,La República,politica,César Astudillo,PER,0.9997994899749756
+314,La República,politica,Iber Maraví,PER,0.9997823238372803
+317,La República,politica,Nación,ORG,0.9994974136352539
+317,La República,politica,Fujimori,PER,0.9997379183769226
+317,La República,politica,Astudillo,PER,0.9995136260986328
+317,La República,politica,Congreso,ORG,0.9997400641441345
+318,La República,politica,Somos Perú,ORG,0.999480128288269
+319,La República,economia,Perú,LOC,0.9990553259849548
+322,La República,deportes,Universitario,ORG,0.9587148427963257
+322,La República,deportes,Fluminense,ORG,0.9997058510780334
+323,La República,politica,López Chau,PER,0.9994311332702637
+323,La República,politica,Fujimori,PER,0.9996474981307983
+323,La República,politica,Senado,ORG,0.9987931251525879
+323,La República,politica,FF. AA,ORG,0.9134488701820374
+324,La República,politica,Andrés Hurtado,PER,0.9996230602264404
+324,La República,politica,Fiscalía,ORG,0.9992710947990417
+326,La República,deportes,Alianza Lima,ORG,0.9989606738090515
+327,La República,ciencia_tecnologia,Pompeya,LOC,0.9988719820976257
+328,La República,economia,Lima Norte,LOC,0.999218225479126
+329,La República,ciencia_tecnologia,Cuevana,PER,0.8609180450439453
+330,La República,deportes,Perú,ORG,0.9941126704216003
+330,La República,deportes,Qualifiers,ORG,0.8277800679206848
+330,La República,deportes,Juan Pablo Varillas,PER,0.997798502445221
+330,La República,deportes,Escurra,PER,0.9987704157829285
+331,La República,ciencia_tecnologia,Villa de Adriano,LOC,0.9993991851806641
+332,La República,deportes,Sudamérica,LOC,0.9984453320503235
+333,La República,ciencia_tecnologia,Centroamérica,LOC,0.9997207522392273
+335,La República,economia,Jorge Chávez,PER,0.9628179669380188
+335,La República,economia,AeroDirecto,ORG,0.9990862607955933
+336,La República,deportes,Pablo Guede,PER,0.9998166561126709
+336,La República,deportes,VAR,ORG,0.999769389629364
+336,La República,deportes,Alianza Lima,ORG,0.9995107054710388
+336,La República,deportes,Cusco FC,ORG,0.9974396228790283
+337,La República,politica,PJ,ORG,0.9869656562805176
+337,La República,politica,Luz Peralta Santur,PER,0.9996691346168518
+338,La República,politica,Carlos Mesía,PER,0.999799370765686
+339,La República,deportes,Alianza Lima,ORG,0.9976397752761841
+339,La República,deportes,ADT,ORG,0.9994727969169617
+340,La República,deportes,San Martín,ORG,0.997183620929718
+340,La República,deportes,Emily Zinger,PER,0.9990267753601074
+341,La República,economia,Perú,LOC,0.9958416819572449
+344,La República,deportes,Camila Monge,PER,0.9992678165435791
+344,La República,deportes,Brasil,ORG,0.9925917387008667
+345,La República,economia,Perú,LOC,0.9953280687332153
+346,La República,deportes,Alianza Lima,ORG,0.9987828731536865
+346,La República,deportes,Gerdau,PER,0.9884767532348633
+346,La República,deportes,Minas,ORG,0.7206779718399048
+347,La República,deportes,Alianza Lima,ORG,0.9986114501953125
+347,La República,deportes,Cusco FC,ORG,0.9971294403076172
+348,La República,economia,FF. AA.,ORG,0.9741174578666687
+349,La República,ciencia_tecnologia,TikTok,ORG,0.9975622892379761
+350,La República,politica,Senador,PER,0.9898028373718262
+350,La República,politica,JP,ORG,0.6722144484519958
+350,La República,politica,Astudillo,PER,0.9991917014122009
+350,La República,politica,Comisión de Constitución,ORG,0.9992356896400452
+351,La República,ciencia_tecnologia,Samsung,ORG,0.9985418319702148
+352,La República,deportes,Perú,ORG,0.8409328460693359
+352,La República,deportes,Matadorcitas,ORG,0.6408240795135498
+352,La República,deportes,Brasil,ORG,0.9945634007453918
+354,La República,ciencia_tecnologia,Mark Zuckerberg,PER,0.9981913566589355
+354,La República,ciencia_tecnologia,Harvard,ORG,0.6321939826011658
+355,La República,deportes,Alianza Lima,ORG,0.9995135068893433
+355,La República,deportes,EC Pinheiros,ORG,0.999336838722229
+357,La República,deportes,Sporting Cristal,ORG,0.9993581771850586
+357,La República,deportes,UTC,ORG,0.9997814297676086
+357,La República,deportes,Cajamarca,LOC,0.9985508322715759
+358,La República,economia,Perú,LOC,0.995521068572998
+360,La República,politica,Gobierno,ORG,0.9995495676994324
+361,La República,politica,JNJ,ORG,0.7136563062667847
+361,La República,politica,Delia Espinoza,PER,0.9997209906578064
+362,La República,economia,Perú,LOC,0.9958292841911316
+363,La República,ciencia_tecnologia,Netflix,ORG,0.90108323097229
+364,La República,deportes,Alianza Lima,ORG,0.9977015256881714
+364,La República,deportes,Palestino,ORG,0.9929948449134827
+364,La República,deportes,Matute,LOC,0.9984675049781799
+365,La República,politica,Ruth Luque,PER,0.9985958337783813
+365,La República,politica,Fujimori,PER,0.999594509601593
+365,La República,politica,Senado,ORG,0.9981301426887512
+366,La República,politica,Jaime Bayly,PER,0.9961910247802734
+367,La República,ciencia_tecnologia,Australia,LOC,0.9985964894294739
+369,La República,economia,Perú,LOC,0.9993765950202942
+370,La República,politica,Keiko Fujimori,PER,0.9905791282653809
+370,La República,politica,Senado,ORG,0.9969817996025085
+371,La República,deportes,Paolo Guerrero,PER,0.9998062252998352
+373,La República,politica,China Polo,ORG,0.7453474402427673
+373,La República,politica,Gocha,PER,0.9638957381248474
+374,La República,economia,Perú,LOC,0.9756960272789001
+377,La República,ciencia_tecnologia,América Latina,LOC,0.9994833469390869
+377,La República,ciencia_tecnologia,Antártida,LOC,0.9985431432723999
+378,La República,deportes,Norteamérica,LOC,0.9994935989379883
+379,La República,politica,ONPE,ORG,0.8978064656257629
+379,La República,politica,Renovación Popular,ORG,0.9984586238861084
+379,La República,politica,Avanza País,ORG,0.999693751335144
+380,La República,deportes,Barcelona,ORG,0.9950714111328125
+380,La República,deportes,Galatasaray,ORG,0.9992668032646179
+381,La República,deportes,Yamal,PER,0.9990895986557007
+381,La República,deportes,Barcelona,ORG,0.9372254014015198
+382,La República,economia,Ejecutivo,ORG,0.9993895292282104
+385,La República,ciencia_tecnologia,Guatemala,LOC,0.9991115927696228
+386,La República,deportes,Real Madrid,ORG,0.9986881613731384
+386,La República,deportes,Roma,ORG,0.9926034808158875
+387,La República,economia,Perú,LOC,0.9963726997375488
+388,La República,politica,Juan Sheput,PER,0.9981451034545898
+388,La República,politica,Papa León XIV,PER,0.9984912872314453
+390,La República,ciencia_tecnologia,Claro,ORG,0.902999997138977
+394,La República,economia,Perú,LOC,0.9960838556289673
+395,La República,ciencia_tecnologia,América,LOC,0.999544084072113
+395,La República,ciencia_tecnologia,ADN,ORG,0.963836669921875
+396,La República,economia,Sheput,PER,0.9897436499595642
+396,La República,economia,Perú,LOC,0.9989364743232727
