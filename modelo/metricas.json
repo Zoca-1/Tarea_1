@@ -1,0 +1,72 @@
+{
+  "fecha_evaluacion": "2026-10-12",
+  "n_noticias": 400,
+  "n_train": 280,
+  "n_val": 60,
+  "n_test": 60,
+  "beto": {
+    "accuracy_test": 0.95,
+    "f1_macro_test": 0.9515607619577309,
+    "latencia_ms": 34.96561999976014
+  },
+  "zero_shot": {
+    "accuracy_40": 0.675,
+    "f1_macro_40": 0.6646739130434782,
+    "latencia_ms": 31.124912499217317
+  },
+  "llm": {
+    "modelo": "qwen_local:Qwen/Qwen2.5-3B-Instruct",
+    "accuracy_400": 0.8425,
+    "f1_macro_400": 0.842884042346106,
+    "f1_macro_test": 0.817128158271095,
+    "acuerdo_auditoria_20": 0.8,
+    "latencia_ms": 117.91847999993479
+  },
+  "embeddings_logreg": {
+    "accuracy_test": 0.95,
+    "f1_macro_test": 0.9488505747126437,
+    "latencia_ms": 9.60579999955371
+  },
+  "tabla_comparativa": [
+    {
+      "Método": "Zero-shot XNLI (BETO-XNLI)",
+      "F1 macro (40 comunes)": 0.6647,
+      "Accuracy test": null,
+      "F1 macro test": null,
+      "Latencia ms/titular": 31.1249,
+      "Hardware": "GPU",
+      "Costo": "Gratis, sin datos etiquetados",
+      "Entrenamiento": "Ninguno"
+    },
+    {
+      "Método": "LLM débil (Qwen2.5-3B local)",
+      "F1 macro (40 comunes)": 0.8214,
+      "Accuracy test": 0.8167,
+      "F1 macro test": 0.8171,
+      "Latencia ms/titular": 117.9185,
+      "Hardware": "GPU",
+      "Costo": "GPU ≥ 8 GB o API de pago",
+      "Entrenamiento": "Ninguno (prompt)"
+    },
+    {
+      "Método": "Embeddings + LogReg",
+      "F1 macro (40 comunes)": 0.9499,
+      "Accuracy test": 0.95,
+      "F1 macro test": 0.9489,
+      "Latencia ms/titular": 9.6058,
+      "Hardware": "GPU (encoder)",
+      "Costo": "470 MB, corre en CPU",
+      "Entrenamiento": "Segundos"
+    },
+    {
+      "Método": "BETO fine-tuned",
+      "F1 macro (40 comunes)": 0.9749,
+      "Accuracy test": 0.95,
+      "F1 macro test": 0.9516,
+      "Latencia ms/titular": 34.9656,
+      "Hardware": "CPU",
+      "Costo": "440 MB, corre en CPU",
+      "Entrenamiento": "~1 min GPU (280 titulares)"
+    }
+  ]
+}
