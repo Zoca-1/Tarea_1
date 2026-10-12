@@ -1,0 +1,7 @@
+modelo/*.safetensors
+modelo/*.bin
+modelo/checkpoint-*/
+*.pyc
+.env
+__pycache__/
+.ipynb_checkpoints/
